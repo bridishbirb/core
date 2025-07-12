@@ -8,7 +8,7 @@
                 </div>
                 <div class="panel-body">
                     <h2>Introduction</h2>
-                    <p>The Flying Programme is an expansion of the P0 Initial Pilot rating aimed at assisting pilots starting on the network, pilots who are not confident on the network, or any pilots who feel they may benefit from 1-on-1 sessions to improve their VATSIM and flying skills. The programme helps pilots flying either the Boeing 737NG series or Airbus A320 family get started on the network and become fully competent pilots on the VATSIM network flying from A to B with training for any rare occurrences that may happen, such as holds and the different IFR approaches found across the world.</p>
+                    <p>The Flying Programme is an expansion of the P0 Initial Pilot rating aimed at assisting pilots starting on the network, pilots who are not confident on the network, or any pilots who feel they may benefit from 1-on-1 sessions to improve their VATSIM and flying skills. The programme now offers support for both VFR and IFR pilots, helping those flying visually in aircraft such as the C152, C172, and PA28, or operating IFR aircraft like the Boeing 737NG series or Airbus A320 family, get started on the network. It aims to develop fully competent VATSIM pilots, whether flying local circuits or international routes, with training for procedures such as holds, visual circuits, and the wide range of IFR approaches found across the world.</p>
                     
                     <p>The programme consists of 3 different areas for members to engage with a mandatory Moodle course, one-on-one sessions, and group sessions.</p>
 
@@ -21,7 +21,7 @@
                     </p>
                     
                     <p>
-                        The Moodle course contains the following topics:
+                        The IFR Moodle course contains the following topics:
                     </p>
                     
                     <ul>
@@ -50,6 +50,36 @@
                             Altimetry
                         </li>
                     </ul>
+
+                    <p> The VFR Moodle course contains the following topics:
+                    </p>
+
+                    <ul>
+                        <li style="margin-left:18pt;">
+                            VATSIM Mandatory Knowledge (Creating flightplans & connecting)
+                        </li>
+                        <li style="margin-left:18pt;">
+                            Radiotelephony
+                        </li>
+                        <li style="margin-left:18pt;">
+                            Basic Aircraft Knowledge
+                        </li>
+                        <li style="margin-left:18pt;">
+                            Airspace & Flight Rules
+                        </li>
+                        <li style="margin-left:18pt;">
+                            Operations of Aerodromes & ATS Services
+                        </li>
+                        <li style="margin-left:18pt;">
+                            Meteorology & Altimetry
+                        </li>
+                        <li style="margin-left:18pt;">
+                            FISO & A/G Operators
+                        </li>
+                        <li style="margin-left:18pt;">
+                            Standard VFR Procedures
+                        </li>
+                    </ul>
                     
                     <p>
                         The final assessment is open book, with a time limit of 1 hour and a pass grade of 75%. The exam may be retaken after a cooldown period, allowing you to revise the necessary areas.
@@ -66,7 +96,7 @@
                     </p>
                     
                     <p>
-                        <b>A member can request a maximum of <i>TWO</i> one-on-one sessions per 12 months, with the 12 months starting from the date of the second session.</b> This allows a member to return after absence from the network and get assistance in starting to fly again. The Initial Flight Instructor may allow exceptions to this rule in very specific circumstances.
+                        <b>A member can request a maximum of <i>FIVE</i> one-on-one sessions per 12 months, with the 12 months starting from the date of the second session.</b> This allows a member to return after absence from the network and get assistance in starting to fly again. The Initial Flight Instructor may allow exceptions to this rule in very specific circumstances.
                     </p>
                     
                     <h3>Group Sessions</h3>
@@ -106,9 +136,6 @@
                             At least 1 one-on-one session
                         </li>
                         <li style="margin-left:18pt;">
-                            At least 2 group flights
-                        </li>
-                        <li style="margin-left:18pt;">
                             Be deemed by a Flying Programme mentor to have sufficient understanding of:
                         </li>
                         <li style="margin-left:54pt;">
@@ -133,7 +160,7 @@
                             One-on-one sessions: 90 days without a session request, or after 2 session reports have been filed*.
                         </li>
                         <li style="margin-left:18pt;">
-                            Group flights: 120 days without joining a group flight in CTS.
+                            Group flights: 120 days without joining a group flight in CTS. (Assuming they are regularly planned)
                         </li>
                         <li style="margin-left:18pt;">
                             All permissions: If no session requests of group flight bookings are made within 30 days of permissions being assigned.
